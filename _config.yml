@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Thanakit Chokbunsuwan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Currently, I'm a third year student in CPE"
+  location         : "KMUTT"
+  employer         : "King Mongkut’s University of Technology Thonburi"
   uri              : # URL
   email            : "none@example.org" 
 
